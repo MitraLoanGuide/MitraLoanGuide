@@ -1,1 +1,23 @@
-adgadfg
+# PaddleMaterials
+
+<p align="center">
+ <img src="step/ppmat_logo.wep" align="middle" width = "400"/>
+<p align="center">
+
+## 🚀 Introduction
+
+**PaddleMaterials** is a data-mechanism dual-driven, development and deployment of AI4Materials foundation models, end to end toolkit based on PaddlePaddle deep learning framework for materials science and engineering. **PPMat** (represents PaddleMaterials in the following text) is designed to help researchers more efficiently build AI4Materials foundation models and explore, discover, and develop new materials based on deployed pretrained models. **PPMat** has supported inorganic materials and part of organic molecules, and will support more types of materials including polymers, organic molecules, catalysts, and so on. It has supported some representative models including the equivalent graph networks-based model, diffusion model, multi-modal model, and will support more kinds of deep learing models and agents works related to AI4Material fields in the feature.
+
+<p align="left">
+ <img src="docs/fyinformationecholocationcc.png" align="middle" width = "1000"/>
+<p align="left">
+
+**Inorganic materials**, characterized by their symmetrical and periodic structures, exhibit a wide range of properties and are widely applied in various fields, from electronic devices to energy applications. Traditional experimental and computational methods for discovering crystalline materials are often time-consuming and expensive. Data-driven approaches to material discovery have the power to model the highly complex atomic systems within crystalline materials, paving the way for rapid and accurate material discovery.
+
+**Organic materials**, distinguished by covalently linked, directionally bonded networks, mainly defined as a carbon–hydrogen or carbon–carbon bond chemical compound. These traits support core applications including flexible displays, organic photovoltaics, high-energy-density battery electrodes, advanced separation membranes, catalyts. The vast compositional and conformational space of organic molecules makes trial-and-error synthesis and ab-initio simulations slow and costly. Data-driven methods that fuse high-throughput datasets, graph-based representations, and deep generative models rapidly learn structure–property links, enabling fast virtual screening and rational design for more agile, sustainable advances in organic materials.
+
+**Polymer materials**, characterized by their large molecular weight and complex molecular structures and built from long-chain macromolecules with tunable architectures (homopolymer, block, graft) and morphologies (amorphous, semicrystalline, cross-linked), offer lightweight, processable, and programmable mechanical, thermal, optical, and transport properties for coatings, membranes, composites, and flexible electronics. The combinatorial design space—monomer choice, sequence, tacticity, molecular-weight distribution, additives, and processing history—plus multi-scale physics makes Edisonian discovery and brute-force simulation slow and costly. Data-driven polymer informatics that fuses high-throughput measurements with graph/sequence representations and physics-guided neural surrogates learns structure-processing-property links, while generative and active-learning workflows target Tg, modulus, permeability, dielectric constant, and recyclability for rapid, sustainable polymer discovery.
+
+**Catalysts materials**, as key components in chemical reactions, play a crucial role in the development of new materials and technologies and spanning heterogeneous surfaces (metals, alloys, oxides, zeolites), homogeneous/organometallic complexes, and electrocatalysts, control reaction rates and selectivity across chemicals, energy, and environmental remediation. Discovery is hampered by vast compositional/structural spaces, site heterogeneity, competing pathways, and operando effects (adsorption, kinetics, deactivation) that challenge trial-and-error and exhaustive DFT. Data-driven methods—surrogate models for adsorption energies and barriers (e.g., graph neural networks), learned electronic/structural descriptors, and generative design coupled with Bayesian/active learning and automated experimentation—enable fast screening and rational optimization, accelerating catalysts for CO₂ reduction, ammonia synthesis, fuel-cell reactions, and selective oxidations.
+
+**Amorphous materials**, have no detectable crystal structure.its characteristic of atomic arrangement is more like liguid and has no long-range periodicity. It has attracted increasing attention duo to its broad applciations in optoelectronics, catalysis, and batteries. Its structure-property relationship is highly complex and sensitive to disorder, making it challenging to predict and design.
